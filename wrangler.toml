@@ -1,4 +1,4 @@
-name = "open-next-chat-app"
+name = "opennext"
 main = "worker/index.mjs"
 compatibility_date = "2025-08-01"
 
