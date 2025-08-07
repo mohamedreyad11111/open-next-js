@@ -1,2 +1,3 @@
-# open-next-js
-this is simple project
+# OpenNext Chat App
+
+A simple chat app using OpenNext and Cloudflare D1.

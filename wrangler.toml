@@ -1,0 +1,8 @@
+name = "open-next-chat-app"
+main = "worker/index.mjs"
+compatibility_date = "2025-08-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "db"
+database_id = "30f04ea5-4869-4533-ae6b-5ff21b20c4a2"

@@ -1,0 +1,1 @@
+// Placeholder: Handled via worker/index.mjs
